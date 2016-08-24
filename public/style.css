@@ -34,7 +34,13 @@ body {
 .site-wrap .chat-list li {
     border: 1px solid #aaa;
     margin: 0;
-    padding: 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.chat-list .time {
+    color: #fff;
+    background: #000;
 }
 
 .site-wrap .chat-form {
